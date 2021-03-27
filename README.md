@@ -63,5 +63,5 @@
 <h14>Skill Required:</h14>
 <p>For the skills I need. Based on my knowledge. To design a game always needs three parts: plan, programming and art design. In the plan part, I need to have a skill to tell a story and set the plot to let the player play. Luckily I already have some experience writing a story and writing some COC modules to play with my friends. In the programming part, it is my most important part. I need to have enough programming language skills like python, C++ or Java,  to write and run a program. In the art design part, I need to have skill to create 3D models and add them into the game design application.</p>
 
-<h15Outcome:></h15>
+<h15>Outcome:</h15>
 <p>If the project is successfully completed, it expresses that I have the basic ability to design a game and I have skill and ability to take the next step even means I may have more possibility to find the job that I like and need. Moreover, For myself , it also symbolizes that I have taken the first step for my final goal because my final goal is to create a virtual world but let the player feel real, I can use the communication and feed back system in my future study.</p>
