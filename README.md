@@ -16,7 +16,7 @@
 </p>
 <h3>Idea Job:</h3>
 <p>For my ideal job, I found one on a website called ‘seek.com.au’. I believe that my idea job should at least look like it:</p>
-
+<img src="job.png">
 
 <a href="https://www.seek.com.au/job/51769594?type=standard#searchRequestToken=f71ed8bd-fd3a-4742-a8f0-fd406dc16540">Link is here</a>
 <p>In my own words, in this job, I need to work with my teamwork to write the base code of a game, to build the character model and make it run successfully. In this job, I can learn more knowledge and experiment in design games and have a chance to learn more useful skills from other people. I understand my final goal is to create my own workroom and my own games, thus jobs like this are very important for me.</p>
