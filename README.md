@@ -45,7 +45,7 @@
 <h3>Overview:</h3>
 <p>For my final goal, I want to create some interesting, meaningful, popular games. They should like some virtual world but let the players feel real. I want the player to feel happy, hopeful even perception of affiliation in my games. However, for now I do not have enough ability and experiments to create these worlds. Thus for now, my chiefly goal is to create a game that will have the function I want but not so difficult. For this project, I want to create a game based on the type of a board game: Call of Cthulhu. The player needs to use the search skill and art of speaking to find enough clues to find the truth which hides behind the mystery, then try to survive.</p>
 
-<h11>Motivation:<h/11>
+<h3>Motivation:</h3>
 <p>There are many reasons except I like games of why I want to create this project. Firstly, the popularity of video games are undoubted. When I was a foundation student, my partner and I did a research of the sales volume of games in 2019, the most three popular games have a total sales volume of 400 millions salling. Game business is a huge opportunity. Secondly, Call of Cthulhu is a popular culture too, there are many famous game use for reference this culture like WOW, Blood Cure and The Elder Scrolls eth. Third, the project has some riddle and exploration elements. I can use them in the future to reach my final goal.<p/>
 
 <h3>Description:</h3>
