@@ -40,9 +40,9 @@
 <img src="1.png"><img src="2.png"><img src="3.png"><img src="4.png"><img src="5.png">
 
 <h3>result of an online learning style result:</h3>
-
+<img src="style.png">
 <h3>result of online Big Five Personality test:</h3>
-
+<img src="big five.png">
 <p>In my opinion, the result helps me to understand myself more deeply. I believe that I cannot judge myself fairly because I will bring some subjective consciousness to view myself, it will make me unable to see myself. These tests and results give me a chance to know myself from some parts, I believe that they will help me in further studying and working with my teammates.</p>
 
 <p>I think these results may influence my behaviour in a team because I exactly did and read these results. I will think of them in my subconsciousness thus it will make some influence in my behaviour but I believe that these influences are positive.</p>
