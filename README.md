@@ -37,7 +37,7 @@
 <p>It doesn’t interest me what you do for a living. I want to know what you ache for – and if you dare to dream of meeting your heart’s longing. It doesn’t interest me how old you are. I want to know if you will risk looking like a fool – for love – for your dreams – for the adventure of being alive.</p>
 <p>The Campaigner personality is a true free spirit. They are often the life of the party, but unlike types in the Explorer Role group, Campaigners are less interested in the sheer excitement and pleasure of the moment than they are in enjoying the social and emotional connections they make with others. Charming, independent, energetic and compassionate, the 7% of the population that they comprise can certainly be felt in any crowd.</p>
 <p>For others......<p>
-<img src="1.png"width="104" height="568">
+<img src="1.png">
 
 <h3>result of an online learning style result:</h3>
 
